@@ -8,7 +8,9 @@
 
 - 📫 How to reach me **mustafamustafa9891@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/md-rizabul-074bbb256/">LinkedIn</a></h3>
+
 <p align="left">
 </p>
 
