@@ -27,10 +27,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaan19867&theme=radical" alt="GitHub Profile Details"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaan19867&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
