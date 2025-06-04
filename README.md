@@ -8,24 +8,22 @@
 ### 🚀 Showcase
 
 #### Developer Tools
-- 🛠️ Tool 1 - Description here
-- 🔧 Tool 2 - Description here
-- ⚙️ Tool 3 - Description here
+- 🛠️ [Custom Tab Extension](https://github.com/Jaan19867/Custom-Tab-Extension) -A modern Chrome extension built with React and Vite that customizes your new tab page and provides a convenient popup interface.
 
-#### Libraries
+
+<!-- #### Libraries
 - 📚 Library 1 - Description here
 - 📖 Library 2 - Description here
-- 📱 Library 3 - Description here
+- 📱 Library 3 - Description here -->
 
-#### Services
+<!-- #### Services
 - 🌐 Service 1 - Description here
 - ☁️ Service 2 - Description here
-- 🔄 Service 3 - Description here
+- 🔄 Service 3 - Description here -->
 
-#### Fun Projects
-- 🎮 Project 1 - Description here
-- 🎨 Project 2 - Description here
-- 🎯 Project 3 - Description here
+####  Projects
+- 🎮 [Terminal Based Portfolio](https://github.com/Jaan19867/Terminal-based-portfolio) - A modern terminal-styled portfolio website built with Next.js, featuring an interactive command-line interface and auto-updating content. Experience a unique way of presenting my work through a developer's terminal.
+
 
 </td>
 <td width="40%">
