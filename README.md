@@ -5,7 +5,7 @@
 <tr>
 <td width="60%">
 
-### 🚀 Showcase
+### 🚀 Spotlight
 
 #### Developer Tools
 - 🛠️ [Custom Tab Extension](https://github.com/Jaan19867/Custom-Tab-Extension) -A modern Chrome extension built with React and Vite that customizes your new tab page and provides a convenient popup interface.
